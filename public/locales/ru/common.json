@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "brand": "NextJS",
+    "title": "SSR Пример",
+    "description": "A Пример для NestJS",
+    "index": {
+      "title": "Главная"
+    }
+  },
+  "menu": {
+    "login": "Вход",
+    "logout": "Выход",
+    "home": "Главная",
+    "demo": "Демо",
+    "dropdown": "Выпадающее меню",
+    "test1": "Тест 1",
+    "test2": "Тест 2",
+    "test3": "Тест 3",
+    "test4": "Тест 4"
+  },
+  "welcome": "Добро пожаловать",
+  "hello": {
+    "world": "Привет мир"
+  },
+  "demo": {
+    "title": "Демо страница",
+    "description": "Это демо страница"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "brand": "NextJS",
+    "title": "SSR Example",
+    "description": "A Example of NestJS",
+    "index": {
+      "title": "Home"
+    }
+  },
+  "menu": {
+    "login": "Login",
+    "logout": "Logout",
+    "home": "Home",
+    "demo": "Demo",
+    "dropdown": "Dropdown menu",
+    "test1": "Test 1",
+    "test2": "Test 2",
+    "test3": "Test 3",
+    "test4": "Test 4"
+  },
+  "welcome": "Welcome",
+  "hello": {
+    "world": "Hello world"
+  },
+  "demo": {
+    "title": "Demo page",
+    "description": "This is demo page"
+  }
+}

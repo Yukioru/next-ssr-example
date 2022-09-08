@@ -1,0 +1,12 @@
+{
+  "extends": ["next", "prettier"],
+  "rules": {
+    "quotes": [
+      "warn",
+      "single",
+      { "avoidEscape": true, "allowTemplateLiterals": true }
+    ],
+    "semi": ["warn", "always"],
+    "comma-dangle": ["warn", "always-multiline"]
+  }
+}
